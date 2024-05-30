@@ -23,7 +23,8 @@ list_of_files = [
     f"fonts/a.py",
     f"images/a.py",
     f"js/a.py",
-    "index.html"
+    "index.html",
+    f"documents/a.py"
     
 ]
 
